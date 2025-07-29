@@ -2,7 +2,6 @@ using UnityEngine;
 
 namespace NaughtyCharacter
 {
-    // Animator parametrelerine ait hash ID'lerini �nceden hesaplay�p saklayan statik s�n�f
     public static class CharacterAnimatorParamId
     {
         public static readonly int HorizontalSpeed = Animator.StringToHash("HorizontalSpeed"); 
